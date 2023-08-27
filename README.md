@@ -1,7 +1,7 @@
 # ETH-Hex-Value-Decode-Encode-PHP-Ethereum-
 
 
-## eth_getBalance  - hex  value
+## eth_getBalance  - hex  value ##
 
 https://stackoverflow.com/questions/32312884/how-do-i-get-the-balance-of-an-account-in-ethereum
 
